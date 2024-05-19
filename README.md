@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A C++ Webserver](https://github.com/kvnok/webserv/)
 - 🌱 I’m currently learning **Javascript**
-- 💬 Ask me about **C, C++ and Docker**
+- 💬 Ask me about **C and C++**
 
 ### Languages and Tools:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>](https://www.cprogramming.com/)
