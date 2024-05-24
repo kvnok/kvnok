@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kevin
-### Computer Science student [@Codam](https://www.codam.nl/)
+### Software Engineering student [@Codam](https://www.codam.nl/)
 
 - 🔭 I’m currently working on [A C++ Webserver](https://github.com/kvnok/webserv/)
 - 🌱 I’m currently learning **Javascript**
