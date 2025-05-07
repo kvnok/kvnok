@@ -1,5 +1,5 @@
 # Hi 👋, I'm Kevin
-### Advanced student of [Codam](https://www.codam.nl/)
+### Advanced student @[Codam](https://www.codam.nl/)
 
 - 🔭 I’m currently looking for **work experience**
 - 💬 Ask me about **anything software development related**
