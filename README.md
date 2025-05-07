@@ -1,8 +1,7 @@
 # Hi 👋, I'm Kevin
-### Graduate of [Codam](https://www.codam.nl/)
+### Advanced student of [Codam](https://www.codam.nl/)
 
-- 🔭 I’m currently working on **my internship**
-- 🌱 I’m currently learning **web development**
+- 🔭 I’m currently looking for **work experience**
 - 💬 Ask me about **anything software development related**
 
 ### Languages and Tools:
